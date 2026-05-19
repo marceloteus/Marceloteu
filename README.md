@@ -81,9 +81,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marceloteu&l
 
 ## 🌐 Conecte-se comigo
 
-<a href="[https://www.linkedin.com/in/www.linkedin.com/in/
-marcelo-inocêncio-8332677a
-/](https://www.linkedin.com/in/marcelo-inoc%C3%AAncio-8332677a/)" target="_blank">
+<a href="https://www.linkedin.com/in/marcelo-inocêncio-8332677a/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
